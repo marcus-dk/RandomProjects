@@ -1,7 +1,7 @@
 import math
 
 # full discretion. this is a port of the donut.c code to python
-# i did not by anymeans write the original nor do i fully understand it
+# i did not by anym eans write the original nor do i fully understand it
 # i simply ported it to python by following my knowledge of python
 # that said
 # ported by: marcusS 7/01/21
